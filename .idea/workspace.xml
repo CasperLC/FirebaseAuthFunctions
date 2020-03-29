@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff2d468f-e792-4123-ba89-d7877303e6b4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGCjHDmH77lxrRyTldqx1jVbDo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Bruger\WebstormProjects\FirebaseAuthFunctions\functions\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff2d468f-e792-4123-ba89-d7877303e6b4" name="Default Changelist" comment="" />
+      <created>1584456176603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584456176603</updated>
+      <workItem from="1584456177835" duration="403000" />
+      <workItem from="1584456662190" duration="834000" />
+      <workItem from="1584457537600" duration="6577000" />
+      <workItem from="1584518954913" duration="6369000" />
+      <workItem from="1585129962496" duration="831000" />
+      <workItem from="1585403693194" duration="141000" />
+      <workItem from="1585408610225" duration="7757000" />
+      <workItem from="1585417880089" duration="2361000" />
+      <workItem from="1585420298708" duration="650000" />
+      <workItem from="1585420963537" duration="9730000" />
+      <workItem from="1585432603255" duration="4638000" />
+      <workItem from="1585499837652" duration="1775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
